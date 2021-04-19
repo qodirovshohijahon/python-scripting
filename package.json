@@ -1,0 +1,17 @@
+{
+  "name": "dates-in-uzbek",
+  "version": "1.0.0",
+  "description": "Dates in Uzbek language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uzbek",
+    "dates",
+    "sanalar",
+    "uzdates"
+  ],
+  "author": "gospodinqodirov",
+  "license": "ISC"
+}
