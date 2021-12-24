@@ -1,0 +1,16 @@
+{'Role': {'Path': '/', 'RoleName': 'admin-acces-anvarov', 'RoleId': 'AROAZGTL2QH7EZJ4HVLKV', 'Arn': 'arn:aws:iam: : 632660066814:role/admin-acces-anvarov', 'CreateDate': datetime.datetime(2021,
+        12,
+        17,
+        13,
+        45,
+        48, tzinfo=tzutc()), 'AssumeRolePolicyDocument': {'Version': '2012-10-17', 'Statement': [
+                {'Effect': 'Allow', 'Principal': {'AWS': 'arn:aws:iam: : 632660066814:root'
+                    }, 'Action': 'sts:AssumeRole', 'Condition': {}
+                }
+            ]
+        }, 'MaxSessionDuration': 3600, 'RoleLastUsed': {}
+    }, 'ResponseMetadata': {'RequestId': 'bb9f47a7-8762-48cc-b62c-1f4d736892db', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'bb9f47a7-8762-48cc-b62c-1f4d736892db', 'content-type': 'text/xml', 'content-length': '870', 'date': 'Fri,
+            24 Dec 2021 05: 53: 04 GMT'
+        }, 'RetryAttempts': 0
+    }
+}
