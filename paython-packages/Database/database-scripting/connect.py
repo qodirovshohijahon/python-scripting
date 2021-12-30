@@ -5,10 +5,10 @@ import sys
 
 def connect_db():
     connect = mdb.connect(
-        'localhost',
-        'test_user',
-        'test123'
-    #    'test'
+        '70.34.211.126',
+        'root',
+        'Ng}4NW@JDnaBautH',
+        'mysql'
     )
 
     connection = connect.cursor()
